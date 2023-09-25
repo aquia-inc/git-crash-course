@@ -4,7 +4,7 @@ Welcome to the Git and GitHub Lunch and Learn Exercise Repository! This reposito
 
 ## 🏆 Certificate of Completion Recipients:
 
-- _Your name here_
+- Savannah Burke
 
 
 
