@@ -5,7 +5,7 @@ Welcome to the Git and GitHub Lunch and Learn Exercise Repository! This reposito
 ## 🏆 Certificate of Completion Recipients:
 
 - Sinan Bolel
-- _Your name here_
+- Eric Rippetoe (Learning about forks and branches was new and useful to me)
 
 
 
